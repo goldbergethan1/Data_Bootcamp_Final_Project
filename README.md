@@ -10,4 +10,4 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 Project Description
 
-Currently, there is over $1.5 Trillion in Outstanding Student Loan Debt, creating a serious and potentially reccession-like problem. While some students are able to pay off their student debt because of the job prospects provided to them out of university, others are less fortunate. In this project, we have analyzed student debt across various factors, cities and universities as well the correlation between student debt, expected earnings and income out of college. 
+Currently, there is over $1.3 Trillion in Outstanding Student Loan Debt, creating a serious and potentially reccession-like problem. While some students are able to pay off their student debt because of the job prospects provided to them out of university, others are less fortunate. In this project, we have analyzed student debt across various factors, cities and universities as well the correlation between student debt, expected earnings and income out of college. 
